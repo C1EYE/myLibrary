@@ -82,7 +82,7 @@
 
 ## 数据结构与算法
 
-- [The Algorithm Design Manual by Steven S. Skiena](https://github.com/C1EYE/selfLibrary/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/The Algorithm Design Manual by Steven S. Skiena.pdf)
+- [The Algorithm Design Manual by Steven S. Skiena](https://github.com/C1EYE/selfLibrary/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 
 ## 程序员自我修养
 
