@@ -86,6 +86,7 @@
 
 ## 程序员自我修养
 
+- [人人都是产品经理](https://github.com/C1EYE/myLibrary/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.pdf)
 - [程序员的自我修养—链接、装载与库](https://github.com/C1EYE/myLibrary/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E2%80%94%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
 - [clean code-代码整洁之道(中文完整版-带书签)](https://github.com/C1EYE/myLibrary/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/clean%20code-%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93%28%E4%B8%AD%E6%96%87%E5%AE%8C%E6%95%B4%E7%89%88-%E5%B8%A6%E4%B9%A6%E7%AD%BE%29.pdf)
 - [编码——隐匿在计算机软硬件背后的语言](https://github.com/C1EYE/myLibrary/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/%E7%BC%96%E7%A0%81%E2%80%94%E2%80%94%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
